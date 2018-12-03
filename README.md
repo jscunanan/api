@@ -2,6 +2,7 @@ Project Title
 
 Randomised Question Picker
 
+
 Getting Started
 Download this source code copy to your local machine.
 
@@ -32,19 +33,33 @@ npm install body-parser
 let it install the files
 
 
+
 Running the tests
 1. on the commnd prompt type in
+
 node api1.js
 
+Press Enter
+
 2. Open browser, on the addess bar type in:
+
 Adding Questions:
+
 http://localhost:3000/form1.html
+
 From here you can key in the Questions, Tags and weightage of each questions.
 
+
+
 Searching for questions using tags, use the link below
+
 http://localhost:3000/urtags?tags=physics&tags=science
+
 The result will be shown on the browser
 
+
 Picking the Quiz ID, use the link below
+
 http://localhost:3000/quiz.html
+
 

@@ -1,11 +1,10 @@
-#Randomised Question Picker
+# Randomised Question Picker
 
+## Getting Started
 
-Getting Started
 Download this source code copy to your local machine.
 
-
-Prerequisites
+### Prerequisites
 
 You will need to install the following.
 
@@ -13,51 +12,75 @@ You will need to install the following.
 
 2. Download and install MySQL from https://dev.mysql.com/downloads/mysql/
 
+### Installing
 
-After installing Nodejs, Open "Node.js command prompt"
+A step by step series of examples that tell you how to get a development env running
 
-From the command prompt navigate to where you have copied the source code
+Say what the step will be
 
+```
+Give the example
+```
 
-type in the prompt:
+And repeat
 
-npm install --save mysql express
+```
+until finished
+```
 
-let it install the files
+End with an example of getting some data out of the system or using it for a little demo
 
+## Running the tests
 
-npm install body-parser
+Explain how to run the automated tests for this system
 
-let it install the files
+### Break down into end to end tests
 
+Explain what these tests test and why
 
+```
+Give an example
+```
 
-Running the tests
-1. on the commnd prompt type in
+### And coding style tests
 
-node api1.js
+Explain what these tests test and why
 
-Press Enter
+```
+Give an example
+```
 
-2. Open browser, on the addess bar type in:
+## Deployment
 
-Adding Questions:
+Add additional notes about how to deploy this on a live system
 
-http://localhost:3000/form1.html
+## Built With
 
-From here you can key in the Questions, Tags and weightage of each questions.
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
+## Contributing
 
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-Searching for questions using tags, use the link below
+## Versioning
 
-http://localhost:3000/urtags?tags=physics&tags=science
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
-The result will be shown on the browser
+## Authors
 
+* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
-Picking the Quiz ID, use the link below
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
-http://localhost:3000/quiz.html
+## License
 
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc
 

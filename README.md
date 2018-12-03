@@ -1,23 +1,36 @@
 Project Title
+
 Randomised Question Picker
 
 Getting Started
 Download this source code copy to your local machine.
 
+
 Prerequisites
+
 You will need to install the following.
+
 1. Download and install NodeJS from https://nodejs.org/en/download/
+
 2. Download and install MySQL from https://dev.mysql.com/downloads/mysql/
 
+
 After installing Nodejs, Open "Node.js command prompt"
+
 From the command prompt navigate to where you have copied the source code
 
+
 type in the prompt:
+
 npm install --save mysql express
+
 let it install the files
 
+
 npm install body-parser
+
 let it install the files
+
 
 Running the tests
 1. on the commnd prompt type in

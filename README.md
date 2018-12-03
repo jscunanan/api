@@ -1,4 +1,5 @@
-# Randomised Question Picker
+Project Title
+Randomised Question Picker
 
 Getting Started
 Download this source code copy to your local machine.
@@ -31,5 +32,4 @@ The result will be shown on the browser
 
 Picking the Quiz ID, use the link below
 http://localhost:3000/quiz.html
-
 

@@ -13,9 +13,14 @@ After installing Nodejs, Open "Node.js command prompt"
 From the command prompt navigate to where you have copied the source code
 
 type in the prompt:
+
 npm install --save mysql express
+
+let it install the files
+
 npm install body-parser
 
+let it install the files
 
 Running the tests
 1. on the commnd prompt type in

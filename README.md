@@ -1,6 +1,4 @@
-Project Title
-
-Randomised Question Picker
+#Randomised Question Picker
 
 
 Getting Started

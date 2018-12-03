@@ -14,25 +14,36 @@ You will need to install the following.
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+After installing Nodejs, Open "Node.js command prompt"
 
-Say what the step will be
+From the command prompt navigate to where you have copied the source code
 
-```
-Give the example
-```
+type in the prompt:
 
-And repeat
+npm install --save mysql express
 
-```
+let it install the files
+
+type in the prompt:
+
+npm install body-parser
+
+let it install the files
 until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+1. on the commnd prompt type in
+
+node api1.js
+
+Press Enter
+
+2. Adding Questions, Open browser, on the addess bar type in:
+
+http://localhost:3000/form1.html
+
+From here you can key in the Questions, Tags and weightage of each questions.
 
 ### Break down into end to end tests
 

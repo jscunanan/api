@@ -45,13 +45,13 @@ http://localhost:3000/form1.html
 
 From here you can key in the Questions, Tags and weightage of each questions.
 
-Searching for questions using tags, use the link below
+3. Searching for questions using tags, use the link below
 
 http://localhost:3000/urtags?tags=physics&tags=science
 
 The result will be shown on the browser
 
-Picking the Quiz ID, use the link below
+4. Picking the Quiz ID, use the link below
 
 http://localhost:3000/quiz.html
 
